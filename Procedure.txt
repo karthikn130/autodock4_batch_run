@@ -1,6 +1,5 @@
-
+create a folder and place all the files here.
 In this folder make 
 1. receptor pdbqt file
 2. reference gpf file with grid points and coordinates
-3. Create as many folders with ligand pdbqt file
-
+3. Create as many folders with ligand pdbqt file in each folder
