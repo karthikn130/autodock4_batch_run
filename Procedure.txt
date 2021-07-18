@@ -1,5 +1,18 @@
-create a folder and place all the files here.
+echo ***************************************************************
+echo script prepared by L.karthikeyan M.Pharm., COP, MMC, CHENNAI-03
+echo version 2.0
+echo ***************************************************************
+
+
 In this folder make 
 1. receptor pdbqt file
-2. reference gpf file with grid points and coordinates
-3. Create as many folders with ligand pdbqt file in each folder
+2. reference gpf file with grid points and coordinates only like below
+		npts 20 24 20                        # num.grid points in xyz
+		spacing 1.0                          # spacing(A)
+		gridcenter 39.491 -32.058 29.794     # xyz-coordinates or auto
+3. Create as many folders with ligand pdbqt file
+4. grid map batch file
+5. Docking batch file
+6. procedure.txt file
+7. no other files should be present here
+
